@@ -1,0 +1,5 @@
+Stopped after the 3. task of 
+"3.	What is permanently allowed limit for line segment NL-Line_5 (ID: _e8acf6b6-99cb-45ad-b8dc-16c7866a4ddc ) and temporarily allowed. What is difference between those limits."
+
+Went deep into the xml, the structures but always ended up with error so i guess that's where my knowledge limit is.
+Model has a few mistaks that i changed but i didnt track them.
