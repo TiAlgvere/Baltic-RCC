@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3e1e6ac-b705-4d68-ac71-f47e4a9c0ebe" name="Changes" comment="" />
+    <list default="true" id="f3e1e6ac-b705-4d68-ac71-f47e4a9c0ebe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Baltic RCC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2/Test2_Line_Limit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2/Test2_Nominal_voltages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2/Test2_Slack_Gen.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2mneMPFN8JjkfDZ38oaeSsqEENN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,8 +42,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.API_Data_Analysis.executor": "Run",
+    "Python.Task1.executor": "Run",
+    "Python.Task_1.executor": "Run",
+    "Python.Test2.executor": "Run",
+    "Python.Test2_Generator_Product.executor": "Run",
+    "Python.Test2_Line_Limit.executor": "Run",
+    "Python.Test2_Nominal_voltages.executor": "Run",
+    "Python.Test2_Slack_Gen.executor": "Run",
+    "Python.Test2_Slack_Generator.executor": "Run",
+    "Python.Test2_test2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ungur/Desktop/Kool/Töö/codium-ai-plugin-0.10.0.zip",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -39,11 +80,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727716718926</updated>
-      <workItem from="1727716721821" duration="7000" />
+      <workItem from="1727716721821" duration="4838000" />
+      <workItem from="1727764362981" duration="6667000" />
+      <workItem from="1727772311427" duration="314000" />
+      <workItem from="1727772633591" duration="3276000" />
+      <workItem from="1727776578287" duration="14293000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Baltic_RCC$Task1.coverage" NAME="Task1 Coverage Results" MODIFIED="1727766146336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test 1" />
+    <SUITE FILE_PATH="coverage/Baltic_RCC$Test2_Slack_Gen.coverage" NAME="Test2_Slack_Gen Coverage Results" MODIFIED="1727795227192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test 2" />
+    <SUITE FILE_PATH="coverage/Baltic_RCC$Test2_test2.coverage" NAME="Test2_test2 Coverage Results" MODIFIED="1727793274292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test 2" />
+    <SUITE FILE_PATH="coverage/Baltic_RCC$Test2_Generator_Product.coverage" NAME="Test2_Generator_Product Coverage Results" MODIFIED="1727793750154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test 2" />
+    <SUITE FILE_PATH="coverage/Baltic_RCC$Task_1.coverage" NAME="Task_1 Coverage Results" MODIFIED="1727721867897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test 1" />
+    <SUITE FILE_PATH="coverage/Baltic_RCC$API_Data_Analysis.coverage" NAME="API_Data_Analysis Coverage Results" MODIFIED="1727721435689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test 1" />
+    <SUITE FILE_PATH="coverage/Baltic_RCC$Test2_Line_Limit.coverage" NAME="Test2_Line_Limit Coverage Results" MODIFIED="1727793285362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test 2" />
+    <SUITE FILE_PATH="coverage/Baltic_RCC$Test2_Nominal_voltages.coverage" NAME="Test2_Nominal_voltages Coverage Results" MODIFIED="1727780187811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test 2" />
+    <SUITE FILE_PATH="coverage/Baltic_RCC$Test2_Slack_Generator.coverage" NAME="Test2_Slack_Generator Coverage Results" MODIFIED="1727793872725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test 2" />
+    <SUITE FILE_PATH="coverage/Baltic_RCC$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1727780130153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test 2" />
   </component>
 </project>
